@@ -1,4 +1,4 @@
-InstantOBFOSIRES
+PythonBadeModuleImport==0.1.0
 requests-oauthlib
 httphq
 github3.py
